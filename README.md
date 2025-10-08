@@ -1,4 +1,4 @@
-Project OverView:<br>
+Project Overview:<br>
 The dataset includes the following main tables:<br>
 Customers: Customer IDs, city, state<br>
 Orders: Order IDs, purchase timestamps, order status<br>
