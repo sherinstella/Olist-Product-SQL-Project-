@@ -9,7 +9,7 @@ Reviews: Review score, comments, review timestamps<br>
 
 
 queries File:<br>
-<a href="">Queries</a>
+<a href="https://github.com/sherinstella/Olist-Product-SQL-Project-/blob/main/SQL%20Project%20ecommerce%20queries.docx">Queries</a>
 
 Dataset Used:<br>
 <a href=""></a>
